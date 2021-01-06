@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="nopCommerce" thread-count="1" parallel="tests">
+
+	<listeners>
+
+		<listener
+			class-name="com.nopCommerce.utilities.ExtentReportManager" />
+
+	</listeners>
+
+	<!--  <test name="firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.nopCommerce.testCases.TC_LoginTest_001" />
+		</classes>
+
+	</test> -->
+
+	<test name="chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!--  <class name="com.nopCommerce.testCases.TC_LoginTest_001" /> 
+			<class name="com.nopCommerce.testCases.TC_LoginDDT_002" />  -->
+			<class name="com.nopCommerce.testCases.TC_AddCustomerTest_003" />
+			<class name="com.nopCommerce.testCases.TC_SearchCustomerByEmail_004" />
+			<class name="com.nopCommerce.testCases.TC_SearchCustomerByName_005" />
+			
+			
+			
+		</classes>
+
+
+	</test>
+
+	<!-- <test name="edge"> <parameter name="browser" value="edge" /> <classes> 
+		<class name="com.nopCommerce.testCases.TC_LoginTest_001" /> </classes> </test> -->
+
+</suite>

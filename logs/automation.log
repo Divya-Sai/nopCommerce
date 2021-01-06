@@ -1,0 +1,370 @@
+[INFO ] 31-12-2020 10:27:58.261 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:28:01.978 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:28:07.606 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 10:29:44.186 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:29:47.993 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:29:53.031 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 10:36:53.113 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:36:56.215 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:37:02.577 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 10:50:31.904 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:50:36.350 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:50:41.765 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 10:57:18.854 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:57:19.715 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:57:27.148 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:57:27.348 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:57:32.300 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 10:57:32.394 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 10:57:41.613 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:57:46.609 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:57:51.585 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 10:58:22.490 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:58:22.597 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 10:58:25.881 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:58:27.499 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 10:58:31.248 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 10:58:33.504 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:01:11.627 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 11:01:13.357 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 11:01:15.481 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 11:01:19.043 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 11:01:22.421 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:01:25.361 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:01:26.307 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 11:01:26.467 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 11:02:11.127 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 11:02:16.245 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 11:02:21.364 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:02:24.784 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 11:02:30.517 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 11:02:33.966 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 11:02:38.825 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:02:40.068 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 11:03:36.992 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 11:03:42.162 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 11:03:46.836 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:03:50.805 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 11:03:56.682 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 11:03:58.408 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 11:04:02.654 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:04:03.766 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 11:07:56.960 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 31-12-2020 11:07:56.960 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 31-12-2020 11:07:56.960 TC_LoginTest_001 - ***Launched Edge Browser****
+[INFO ] 31-12-2020 11:08:04.266 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 11:08:04.515 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 11:08:07.526 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 11:08:09.239 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 11:08:12.614 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:08:16.495 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 11:08:16.508 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 11:08:17.242 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 11:11:14.721 TC_LoginTest_001 - ***Launched Edge Browser****
+[INFO ] 31-12-2020 11:11:46.996 TC_LoginTest_001 - ***Launched Edge Browser****
+[INFO ] 31-12-2020 01:59:33.461 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 31-12-2020 01:59:39.799 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 01:59:45.241 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 01:59:49.424 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 01:59:54.021 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 01:59:54.040 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 31-12-2020 02:00:00.746 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:00:04.162 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:00:09.812 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:00:11.035 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 02:00:11.044 TC_LoginTest_001 - ***Launched Edge Browser****
+[INFO ] 31-12-2020 02:03:21.242 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 31-12-2020 02:03:27.312 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:03:31.691 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:03:35.862 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:03:42.009 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 02:03:42.056 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 31-12-2020 02:03:47.753 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:03:50.844 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:03:56.167 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:03:57.368 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 02:03:57.377 TC_LoginTest_001 - ***Launched Edge Browser****
+[INFO ] 31-12-2020 02:03:57.377 TC_LoginTest_001 - **passed next linein edge****
+[INFO ] 31-12-2020 02:05:10.331 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 31-12-2020 02:05:16.328 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:05:21.221 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:05:26.043 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:05:29.954 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 02:05:29.994 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 31-12-2020 02:05:35.653 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:05:38.868 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:05:45.173 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:05:45.910 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 02:05:45.934 TC_LoginTest_001 - ***Launched Edge Browser****
+[INFO ] 31-12-2020 02:05:45.936 TC_LoginTest_001 - **passed next linein edge****
+[INFO ] 31-12-2020 02:09:31.016 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 31-12-2020 02:09:31.016 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 31-12-2020 02:09:31.016 TC_LoginTest_001 - ***Launched Edge Browser****
+[INFO ] 31-12-2020 02:09:31.030 TC_LoginTest_001 - **passed next linein edge****
+[INFO ] 31-12-2020 02:09:38.088 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:09:38.477 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:09:41.531 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:09:43.102 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:09:48.351 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:09:50.162 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:09:51.227 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 02:09:52.174 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 02:13:00.314 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 31-12-2020 02:13:00.314 TC_LoginTest_001 - ***Launched Edge Browser****
+[INFO ] 31-12-2020 02:13:00.314 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 31-12-2020 02:13:00.324 TC_LoginTest_001 - **passed next linein edge****
+[INFO ] 31-12-2020 02:13:06.849 TC_LoginTest_001 - **passed next linein edge1****
+[INFO ] 31-12-2020 02:13:08.024 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:13:09.235 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 31-12-2020 02:13:10.910 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:13:15.242 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 31-12-2020 02:13:19.478 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:13:21.109 TC_LoginTest_001 - ***Login Successfull****
+[INFO ] 31-12-2020 02:13:21.955 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 31-12-2020 02:13:22.235 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 10:59:37.565 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 10:59:37.565 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 04-01-2021 10:59:46.289 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 10:59:47.676 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 10:59:50.460 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 10:59:54.264 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 11:00:01.514 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 11:00:03.504 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 11:00:54.424 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 04-01-2021 11:01:00.549 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 11:01:05.131 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 11:01:13.351 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 11:01:13.387 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 11:01:19.700 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 11:01:21.572 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 11:01:28.205 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:24:52.798 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 04-01-2021 02:25:01.339 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 02:25:09.765 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 02:25:19.851 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:28:06.172 TC_LoginTest_001 - ***Launched Firefox Browser****
+[INFO ] 04-01-2021 02:28:14.594 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 02:28:24.020 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 02:28:32.930 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:28:33.741 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 02:28:40.150 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 02:28:43.221 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 02:28:52.263 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:29:17.617 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 02:29:24.831 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 02:29:28.287 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 02:29:37.375 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:32:23.703 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 02:32:30.912 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 02:32:34.406 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 02:32:41.463 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:33:53.768 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 02:34:00.746 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 02:34:04.305 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 02:34:09.416 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:51:48.589 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 02:51:55.795 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 02:51:59.187 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 02:52:08.615 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:52:08.619 TC_LoginDDT_002 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 02:52:17.125 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:52:35.403 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 02:52:39.789 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:52:39.818 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:52:46.761 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 02:52:46.762 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:52:46.777 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:52:53.541 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 02:52:53.542 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:52:53.547 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:53:01.906 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 02:53:01.908 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:53:02.613 TC_LoginDDT_002 - ****webBrowser is closed****
+[INFO ] 04-01-2021 02:54:29.557 TC_LoginDDT_002 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 02:54:39.104 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:54:53.829 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 02:54:58.405 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:54:58.469 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:55:05.151 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 02:55:05.152 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:55:05.160 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:55:11.860 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 02:55:11.860 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:55:11.871 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:55:18.551 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 02:55:18.551 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 02:55:19.235 TC_LoginDDT_002 - ****webBrowser is closed****
+[INFO ] 04-01-2021 03:01:57.383 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 03:02:04.519 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 03:02:08.458 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 03:02:18.151 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 03:02:18.153 TC_LoginDDT_002 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 03:02:26.303 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:02:42.308 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 03:02:46.643 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:02:46.662 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:02:53.643 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 03:02:53.644 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:02:53.649 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:03:00.372 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 03:03:00.374 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:03:00.391 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:03:07.497 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 03:03:07.498 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:03:08.216 TC_LoginDDT_002 - ****webBrowser is closed****
+[INFO ] 04-01-2021 03:08:34.379 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 03:08:41.503 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 04-01-2021 03:08:45.464 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 04-01-2021 03:08:52.980 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 04-01-2021 03:08:52.984 TC_LoginDDT_002 - ***Launched Chrome Browser****
+[INFO ] 04-01-2021 03:09:00.272 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:09:15.519 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 03:09:19.922 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:09:19.933 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:09:26.837 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 03:09:26.838 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:09:26.855 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:09:33.864 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 03:09:33.865 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:09:33.877 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:09:40.738 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 04-01-2021 03:09:40.739 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 04-01-2021 03:09:41.637 TC_LoginDDT_002 - ****webBrowser is closed****
+[INFO ] 05-01-2021 02:09:21.951 TC_AddCustomerTest_003 - ***Launched Chrome Browser****
+[INFO ] 05-01-2021 02:09:36.527 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 05-01-2021 02:09:50.652 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 05-01-2021 02:09:55.763 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 05-01-2021 02:10:09.339 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 05-01-2021 02:10:09.341 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 05-01-2021 02:10:10.084 TC_AddCustomerTest_003 - ****webBrowser is closed****
+[INFO ] 05-01-2021 03:02:16.157 TC_AddCustomerTest_003 - ***Launched Chrome Browser****
+[INFO ] 05-01-2021 03:02:23.466 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 05-01-2021 03:02:35.600 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 05-01-2021 03:02:40.244 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 05-01-2021 03:02:52.506 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 05-01-2021 03:02:52.509 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 05-01-2021 03:02:53.198 TC_AddCustomerTest_003 - ****webBrowser is closed****
+[INFO ] 05-01-2021 03:02:53.200 TC_SearchCustomerByEmail_004 - ***Launched Chrome Browser****
+[INFO ] 05-01-2021 03:02:59.650 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 05-01-2021 03:03:16.624 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 05-01-2021 03:03:16.625 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 05-01-2021 03:03:17.355 TC_SearchCustomerByEmail_004 - ****webBrowser is closed****
+[INFO ] 05-01-2021 03:03:17.356 TC_SearchCustomerByName_005 - ***Launched Chrome Browser****
+[INFO ] 05-01-2021 03:03:23.096 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 05-01-2021 03:03:41.566 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 05-01-2021 03:03:41.567 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 05-01-2021 03:03:42.306 TC_SearchCustomerByName_005 - ****webBrowser is closed****
+[INFO ] 05-01-2021 03:53:31.715 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 05-01-2021 03:53:39.064 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 05-01-2021 03:53:42.713 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 05-01-2021 03:53:49.096 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 05-01-2021 03:53:50.527 TC_AddCustomerTest_003 - ***Launched Chrome Browser****
+[INFO ] 05-01-2021 03:53:56.596 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 05-01-2021 03:54:07.809 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 05-01-2021 03:54:13.469 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 05-01-2021 03:54:25.606 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 05-01-2021 03:54:25.608 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 05-01-2021 03:54:26.319 TC_AddCustomerTest_003 - ****webBrowser is closed****
+[INFO ] 05-01-2021 03:54:27.221 TC_SearchCustomerByEmail_004 - ***Launched Chrome Browser****
+[INFO ] 05-01-2021 03:54:32.921 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 05-01-2021 03:54:43.780 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 05-01-2021 03:54:43.780 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 05-01-2021 03:54:44.496 TC_SearchCustomerByEmail_004 - ****webBrowser is closed****
+[INFO ] 05-01-2021 03:54:44.901 TC_SearchCustomerByName_005 - ***Launched Chrome Browser****
+[INFO ] 05-01-2021 03:54:50.543 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 05-01-2021 03:55:03.302 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 05-01-2021 03:55:03.303 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 05-01-2021 03:55:04.011 TC_SearchCustomerByName_005 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:14:59.198 TC_SearchCustomerByName_005 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:14:59.198 TC_SearchCustomerByEmail_004 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:14:59.198 TC_AddCustomerTest_003 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:14:59.198 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:15:07.982 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:15:08.581 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 06-01-2021 10:15:08.655 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 06-01-2021 10:15:09.292 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:15:12.728 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 06-01-2021 10:15:31.578 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 06-01-2021 10:15:42.591 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:15:43.224 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 06-01-2021 10:15:43.326 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:15:43.662 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 06-01-2021 10:15:43.663 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:15:46.525 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 06-01-2021 10:15:47.080 TC_SearchCustomerByName_005 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:15:48.599 TC_SearchCustomerByEmail_004 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:16:00.260 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 06-01-2021 10:16:00.261 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 06-01-2021 10:16:01.040 TC_AddCustomerTest_003 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:31:54.659 TC_SearchCustomerByEmail_004 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:31:54.659 TC_SearchCustomerByName_005 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:31:54.659 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:31:54.659 TC_AddCustomerTest_003 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:32:03.153 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 06-01-2021 10:32:03.153 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:32:03.622 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 06-01-2021 10:32:03.966 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:32:13.988 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 06-01-2021 10:32:34.136 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 06-01-2021 10:32:39.691 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:32:41.473 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 06-01-2021 10:32:41.476 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:32:41.655 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 06-01-2021 10:32:41.656 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:32:44.547 TC_SearchCustomerByName_005 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:32:44.915 TC_SearchCustomerByEmail_004 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:32:45.402 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 06-01-2021 10:32:59.225 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 06-01-2021 10:32:59.226 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 06-01-2021 10:32:59.952 TC_AddCustomerTest_003 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:44:52.592 TC_AddCustomerTest_003 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:44:52.592 TC_LoginTest_001 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:44:52.592 TC_SearchCustomerByName_005 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:44:52.592 TC_SearchCustomerByEmail_004 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:45:03.748 TC_LoginTest_001 - ***Entered into loginTest method****
+[INFO ] 06-01-2021 10:45:03.748 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 06-01-2021 10:45:05.514 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:45:05.514 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:45:07.701 TC_LoginTest_001 - ***Entering Credentials****
+[INFO ] 06-01-2021 10:45:24.473 TC_LoginTest_001 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:45:24.692 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 06-01-2021 10:45:34.041 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 06-01-2021 10:45:34.044 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:45:34.175 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 06-01-2021 10:45:34.175 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:45:35.280 TC_SearchCustomerByEmail_004 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:45:35.311 TC_SearchCustomerByName_005 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:45:37.076 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 06-01-2021 10:45:51.002 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 06-01-2021 10:45:51.003 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 06-01-2021 10:45:51.698 TC_AddCustomerTest_003 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:53:30.151 TC_SearchCustomerByName_005 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:53:30.151 TC_SearchCustomerByEmail_004 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:53:38.393 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:53:38.437 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:54:00.296 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 06-01-2021 10:54:00.302 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:54:00.738 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 06-01-2021 10:54:00.738 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:54:01.720 TC_SearchCustomerByEmail_004 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:54:01.956 TC_SearchCustomerByName_005 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:55:58.533 TC_SearchCustomerByEmail_004 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:55:58.533 TC_SearchCustomerByName_005 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 10:56:06.878 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:56:06.878 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:56:26.830 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 06-01-2021 10:56:26.833 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 10:56:27.661 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 06-01-2021 10:56:27.662 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 10:56:28.090 TC_SearchCustomerByEmail_004 - ****webBrowser is closed****
+[INFO ] 06-01-2021 10:56:28.513 TC_SearchCustomerByName_005 - ****webBrowser is closed****
+[INFO ] 06-01-2021 11:00:16.223 TC_SearchCustomerByEmail_004 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 11:00:16.223 TC_SearchCustomerByName_005 - ***Launched Chrome Browser****
+[INFO ] 06-01-2021 11:00:24.632 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 11:00:25.018 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 11:00:44.171 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 06-01-2021 11:00:44.175 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 06-01-2021 11:00:45.456 TC_SearchCustomerByName_005 - ****webBrowser is closed****
+[INFO ] 06-01-2021 11:00:45.960 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 06-01-2021 11:00:45.961 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 06-01-2021 11:00:47.512 TC_SearchCustomerByEmail_004 - ****webBrowser is closed****

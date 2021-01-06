@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="nopCommerce" thread-count="5" parallel="tests">
+
+	<listeners>
+
+		<listener
+			class-name="com.nopCommerce.utilities.ExtentReportManager" />
+
+	</listeners>
+
+	<parameter name="browser" value="chrome" />
+
+	<!--  <test name="TC_LoginTest_001">
+		<classes>
+			<class name="com.nopCommerce.testCases.TC_LoginTest_001" />
+		</classes>
+	</test>
+
+	<test name="TC_AddCustomerTest_003">
+		<classes>
+			<class name="com.nopCommerce.testCases.TC_AddCustomerTest_003" />
+		</classes>
+	</test> -->
+
+	<test name="TC_SearchCustomerByEmail_004">
+		<classes>
+			<class
+				name="com.nopCommerce.testCases.TC_SearchCustomerByEmail_004" />
+		</classes>
+	</test>
+
+	<test name="TC_SearchCustomerByName_005">
+		<classes>
+			<class
+				name="com.nopCommerce.testCases.TC_SearchCustomerByName_005" />
+		</classes>
+	</test>
+
+</suite>
